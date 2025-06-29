@@ -1,0 +1,13 @@
+INFO 2025-06-29 09:17:51,092 autoreload 257822 139720663216128 Watching for file changes with StatReloader
+WARNING 2025-06-29 09:18:00,679 log 257822 139720598222400 Not Found: /api/chatbot/chat/
+WARNING 2025-06-29 09:18:00,680 basehttp 257822 139720598222400 "POST /api/chatbot/chat/ HTTP/1.1" 404 14921
+WARNING 2025-06-29 09:18:14,408 log 257822 139720598222400 Not Found: /api/chatbot/chat/
+WARNING 2025-06-29 09:18:14,409 basehttp 257822 139720598222400 "POST /api/chatbot/chat/ HTTP/1.1" 404 14921
+INFO 2025-06-29 09:18:33,082 basehttp 257822 139720598222400 "POST /api/mentor/chat/ HTTP/1.1" 200 415
+INFO 2025-06-29 09:18:40,721 basehttp 257822 139720598222400 "GET /api/mentor/categories/ HTTP/1.1" 200 352
+INFO 2025-06-29 09:18:48,007 basehttp 257822 139720598222400 "GET /api/mentor/faqs/ HTTP/1.1" 200 5533
+INFO 2025-06-29 09:20:53,495 autoreload 259798 135133497053184 Watching for file changes with StatReloader
+INFO 2025-06-29 10:23:28,665 autoreload 281139 131304595005440 Watching for file changes with StatReloader
+INFO 2025-06-29 10:23:39,234 autoreload 281139 131304595005440 /home/micee/s.dev/python/django/hackathon/flow-up/backend/banckend/chatbot/views.py changed, reloading.
+INFO 2025-06-29 10:23:39,760 autoreload 281236 137209025777664 Watching for file changes with StatReloader
+INFO 2025-06-29 10:24:06,354 autoreload 281501 136941942910976 Watching for file changes with StatReloader
